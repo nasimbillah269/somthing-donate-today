@@ -4,6 +4,11 @@
     padding: 0;
 }
 
+body {
+    font-family: 'Gantari', sans-serif;
+}
+
+/* header secttion*/
 .header-section {
     background-image: url(images/donation9.jpg);
     background-repeat: no-repeat;
@@ -44,6 +49,7 @@
     border-radius: 5px;
 }
 
+/* donate today section*/
 .donate-heading {
     text-align: center;
     margin-top: 20px;
@@ -63,13 +69,11 @@
 .donate-amaount {
     display: flex;
     justify-content: center;
-
 }
 
 .donate-amaount {
     text-align: center;
     font-weight: bold;
-
 }
 
 .first-amaount {
@@ -86,7 +90,6 @@
 
 .input-form {
     text-align: center;
-
 }
 
 .input-form input {
@@ -99,4 +102,64 @@
 
 #center-button {
     margin-left: 45%;
+}
+
+/* donate paln setion*/
+.donate-plan-section-heading h3 {
+    font-size: 50px;
+    padding: 20px;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.donate-plan-p {
+    padding-left: 350px;
+    padding-right: 350px;
+}
+
+.donate-plan-section {
+    display: flex;
+    margin-left: 15%;
+    margin-top: 50px;
+    padding: 30px;
+
+}
+
+.donate-plan-item-one {
+    width: 200px;
+    height: 200px;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-right: 30px;
+    margin: 0 10px;
+    background-color: aliceblue;
+}
+
+.donate-plan-item-tow {
+    width: 200px;
+    height: 200px;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-right: 30px;
+    margin: 0 10px;
+    background-color: pink;
+}
+
+.donate-plan-item-three {
+    width: 200px;
+    height: 200px;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-right: 30px;
+    margin: 0 10px;
+    background-color: rgb(226, 176, 226);
+}
+
+.donate-plan-item img {
+    padding-bottom: 9px;
+}
+
+.donate-plan-item h4 {
+    padding-bottom: 40px;
+    font-size: 20px;
 }
