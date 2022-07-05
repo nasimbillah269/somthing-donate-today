@@ -1,0 +1,85 @@
+* {
+
+    margin: 0;
+    padding: 0;
+}
+
+.header-section {
+    background-image: url(images/donation9.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 80vh;
+}
+
+.header-item {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.header-section h1 {
+    padding-left: 500px;
+    padding-right: 500px;
+    color: #fff;
+    font-size: 38px;
+}
+
+#heading-item {
+    padding-top: 150px;
+    padding-bottom: 20px;
+}
+
+.header-section p {
+    padding-left: 350px;
+    padding-right: 350px;
+    margin-bottom: 50px;
+    color: #fff;
+}
+
+.botton-style {
+    text-decoration: none;
+    background-color: #FF7F50;
+    padding: 12px 24px;
+    color: #fff;
+    border-radius: 5px;
+}
+
+.donate-heading {
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.donate-heading h2 {
+    font-size: 50px;
+    padding: 20px;
+}
+
+.donate-heading p {
+    padding-left: 350px;
+    padding-right: 350px;
+}
+
+.donate-amaount {
+    display: flex;
+    justify-content: center;
+
+}
+
+.donate-amaount {
+    text-align: center;
+    font-weight: bold;
+
+}
+
+.first-amaount {
+    padding: 30px;
+    background: rgb(240, 236, 236);
+    margin: 10px;
+    border-radius: 2px;
+}
+
+#second-amaount {
+    border: 2px solid red;
+    color: red;
+}
