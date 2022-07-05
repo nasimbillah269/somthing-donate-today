@@ -83,3 +83,20 @@
     border: 2px solid red;
     color: red;
 }
+
+.input-form {
+    text-align: center;
+
+}
+
+.input-form input {
+    padding: 5px 280px;
+    margin: 50px;
+    outline: none;
+    border: 0px solid;
+    border-bottom: 1px solid #000;
+}
+
+#center-button {
+    margin-left: 45%;
+}
