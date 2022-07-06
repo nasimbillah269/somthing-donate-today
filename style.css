@@ -2,6 +2,7 @@
 
     margin: 0;
     padding: 0;
+
 }
 
 body {
@@ -164,6 +165,52 @@ body {
     font-size: 20px;
 }
 
+/*donate section oftional*/
+
+.donate-section-oftional {
+    display: flex;
+    margin-left: 140px;
+    margin-top: 70px;
+    padding: 10px;
+}
+
+.doante-section-oftional-frist {
+    width: 500px;
+    height: 500px;
+    padding: 10px;
+    margin-right: 10px;
+    background: rgb(240, 235, 235);
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px rgb(230, 226, 226);
+}
+
+.doante-section-oftional-seceond {
+    width: 500px;
+    height: 500px;
+    padding: 10px;
+    margin-left: 10px;
+    background: rgb(235, 226, 226);
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px rgb(230, 226, 226);
+}
+
+.donate-style {
+    width: 500px;
+    height: 300px;
+    padding-bottom: 40px;
+    border-radius: 5px;
+}
+
+.doante-section-oftional-frist h5 {
+    font-size: 22px;
+    padding-bottom: 13px;
+}
+
+.doante-section-oftional-seceond h5 {
+    font-size: 22px;
+    padding-bottom: 13px;
+}
+
 /* update section*/
 
 .update-section {
@@ -185,7 +232,6 @@ body {
     border-radius: 5px;
     margin-top: 50px;
     margin-bottom: 60px;
-
 }
 
 .subscribe-button {
