@@ -163,3 +163,40 @@ body {
     padding-bottom: 40px;
     font-size: 20px;
 }
+
+/* update section*/
+
+.update-section {
+    text-align: center;
+    padding: 100px;
+}
+
+.contact {
+    padding-top: 20px;
+    background-color: bisque;
+    margin: 50px 100px;
+}
+
+.contact input {
+    padding: 11px 11px;
+    background: rgb(190, 186, 186);
+    outline: none;
+    border: 0px solid;
+    border-radius: 5px;
+    margin-top: 50px;
+    margin-bottom: 60px;
+
+}
+
+.subscribe-button {
+    text-decoration: none;
+    padding: 8px 20px;
+    background: #FF7F50;
+    margin-top: 50px;
+    margin-bottom: 60px;
+    color: #fff;
+}
+
+.update-section-heading h2 {
+    font-size: 40px;
+}
